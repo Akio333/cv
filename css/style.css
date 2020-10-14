@@ -1,7 +1,9 @@
 body {
   background-color: #e3fdfd;
 }
-
+img {
+  border-radius: 100%;
+}
 hr {
   border-color: gray;
   border-style: none;
